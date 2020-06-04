@@ -1,0 +1,44 @@
+{
+  "id": "1856414",
+  "name": "实验楼",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1719342",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e7b7",
+      "unicode_decimal": 59319
+    },
+    {
+      "icon_id": "4437603",
+      "name": "下箭头",
+      "font_class": "xiajiantou",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "7586697",
+      "name": "人事管理",
+      "font_class": "renshiguanli",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "12736667",
+      "name": "右箭头",
+      "font_class": "youjiantou",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "14046412",
+      "name": "左箭头",
+      "font_class": "zuojiantou",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    }
+  ]
+}
